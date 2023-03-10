@@ -1,0 +1,20 @@
+### Java ###
+# Executables
+*.out
+out
+*.class
+
+### IntelliJ ###
+# General
+.idea
+*.dat
+*.iml
+
+### MacOS ###
+# General
+.DS_Store
+
+### Project Specific ###
+# Compressed File
+*.zip
+

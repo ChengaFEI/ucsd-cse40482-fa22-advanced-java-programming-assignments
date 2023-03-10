@@ -1,0 +1,41 @@
+# neighbor-dump -m
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PANID =  04fa
+** best parent list **
+Empty
+timestamp: 210e169b80c0 tsn: 298d tsct: e536
+ssc - value: 0 - timestamp: 0 - beacon_received: false - last_heard: 1183611
+Broadcast - RFPLC: 0 - RFOnly: 0 - PLCOnly: 0 - BPD_Hdr: 4 - BPD_Ldr: 0 - RFmod: a08 - PLCmod: 900 - timestamp: 143 -
+NB of neighbors = 4 DSI = 1 Dodag Version = 249
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+SADDR EXTADR           HWType LinkEval RANK  Best_Mod   Best_RF    RF_RSSI_M RF_RSSI_I Best_PLC   PLC_SNR_M PLC_SNR_I PLC_RSSI Phase_Shift Dodag_V Dead_flag
+142d  000781fe0000326f BPD    false    65535 FSK_75     FSK_75     -51.984   -48       ---------- -------   ----      ----     ---         0       false
+Last Unicast Reception Time: --------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+SADDR EXTADR           HWType LinkEval RANK  Best_Mod   Best_RF    RF_RSSI_M RF_RSSI_I Best_PLC   PLC_SNR_M PLC_SNR_I PLC_RSSI Phase_Shift Dodag_V Dead_flag
+7e64  000781fe0000614e BPD    false    65535 FSK_75     FSK_75     -24.294   -21       ---------- -------   ----      ----     ---         0       false
+Last Unicast Reception Time: --------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+------------
+SADDR EXTADR           HWType LinkEval RANK  Best_Mod   Best_RF    RF_RSSI_M RF_RSSI_I Best_PLC   PLC_SNR_M PLC_SNR_I PLC_RSSI Phase_Shift Dodag_V
+ Dead_flag
+f238  000781fe00002f76 BPD    false    65535 FSK_75     FSK_75     -25.5     -23       ---------- -------   ----      ----     ---         0      
+ false
+Last Unicast Reception Time: --------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+——————
+SADDR EXTADR           HWType LinkEval RANK  Best_Mod   Best_RF    RF_RSSI_M RF_RSSI_I Best_PLC   PLC_SNR_M PLC_SNR_I PLC_RSSI Phase_Shift Dodag_V
+ Dead_flagb005  000781fe0000313e BPD    false    65535 FSK_75     FSK_75     -36.953   -42       ---------- -------   ----      ----     ---         0      
+ false
+Last Unicast Reception Time: --------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PANID =  329d
+** best parent list **
+Empty
+timestamp: 396d86fb4f03 tsn: 3584 tsct: e3b7
+ssc - value: 0 - timestamp: 0 - beacon_received: false - last_heard: 765571
+Broadcast - RFPLC: 0 - RFOnly: 0 - PLCOnly: 0 - BPD_Hdr: 0 - BPD_Ldr: 0 - RFmod: a08 - PLCmod: 900 - timestamp: 258 -
+NB of neighbors = 0 DSI = 0 Dodag Version = 240
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
